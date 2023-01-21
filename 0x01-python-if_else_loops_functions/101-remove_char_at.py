@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def remove_char_at_place(str_val, n):
+def remove_char_at(str_val, n):
     if n < 0:
         return str_val
     count = 0
